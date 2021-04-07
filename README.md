@@ -8,3 +8,4 @@ Something I made to test out SSH and GPG keys on my local machine, Windows Subsy
 |:----------|:------:|:-----:|
 |???|GitHub (Web)|just a test|
 |smth|Replit|GPG sucks and im dumb|
+|replit test (again)|Replit|`git config --global` doesnt work???|
