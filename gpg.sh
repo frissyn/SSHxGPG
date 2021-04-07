@@ -9,4 +9,3 @@ if [ -r ~/.bash_profile ]; then
 else 
     echo 'export GPG_TTY=$(tty)' >> ~/.profile;
 fi
-

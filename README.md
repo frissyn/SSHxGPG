@@ -7,3 +7,4 @@ Something I made to test out SSH and GPG keys on my local machine, Windows Subsy
 |Commit Name|Location|Comment|
 |:----------|:------:|:-----:|
 |???|GitHub (Web)|just a test|
+|smth|Replit|GPG sucks and im dumb|
