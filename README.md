@@ -10,3 +10,4 @@ Something I made to test out SSH and GPG keys on my local machine, Windows Subsy
 |smth|Replit|GPG sucks and im dumb|
 |please work|Replit|it didnt work D= ![image](https://storage.googleapis.com/replit/images/1617820289658_efa0fd664aca15d1c5b2f13e28a1365b.png)|
 |one more time|Replit|apparently the key was expired?!?! I didn't even set an expiration time wtf|
+|SSH TEST|Replit|Maybe SSH will work i dunno|
