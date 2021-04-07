@@ -8,4 +8,4 @@ Something I made to test out SSH and GPG keys on my local machine, Windows Subsy
 |:----------|:------:|:-----:|
 |???|GitHub (Web)|just a test|
 |smth|Replit|GPG sucks and im dumb|
-|replit test (again)|Replit|`git config --global` doesnt work???|
+|please work|Replit|it didnt work D= ![image](https://storage.googleapis.com/replit/images/1617820289658_efa0fd664aca15d1c5b2f13e28a1365b.png)|
